@@ -16,7 +16,7 @@ Initialization:
 example_bar = ProgressBar(15)
 ```
 
-This makes a exxample_bar object for a 15-loop bar.
+This makes a example_bar object for a 15-loop bar.
 
 ``` python
 start_bar()
