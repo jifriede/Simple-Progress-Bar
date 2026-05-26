@@ -51,8 +51,7 @@ with ProgressBar(length) as bar:
 - Don't print anything to console while within the context block.
 
 ## Dependancies
-No dependancies needed.   
-time import library is needed for example.py
+No external dependencies needed.   
 ## Assumptions
 **Assumes you are not printing anything to the console while the bar is active**. This is very important! You can use console cursor locations to fix this assumption, but I designed this to be a very simple progress bar.
 ## Authors
