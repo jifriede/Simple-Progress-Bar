@@ -51,7 +51,7 @@ with ProgressBar(length) as bar:
 - Don't print anything to console while within the context block.
 
 ## Dependancies
-No dependancies needed.
+No external dependencies needed.   
 ## Assumptions
 **Assumes you are not printing anything to the console while the bar is active**. This is very important! You can use console cursor locations to fix this assumption, but I designed this to be a very simple progress bar.
 ## Authors
@@ -59,6 +59,6 @@ Jared-Isaac Friedel
 ## Created
 2026-04-30
 ## Last Updated
-2026-04-30
+2026-05-26
 ## Version
-v2.0
+v2.1
